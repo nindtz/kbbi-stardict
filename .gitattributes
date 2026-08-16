@@ -1,0 +1,2 @@
+*.syn filter=lfs diff=lfs merge=lfs -text
+KBBI.syn filter=lfs diff=lfs merge=lfs -text
